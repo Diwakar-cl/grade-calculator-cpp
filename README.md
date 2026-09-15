@@ -12,8 +12,8 @@ and prints the student's grade.
 | below 40| F     |
 
 ## How to run
-g++ -std=c++17 grade_calculator.cpp -o grade_calculator
-./grade_calculator
+g++ -std=c++17 grade-calculator.cpp -o grade-calculator
+./grade-calculator
 
 ## Sample output
 Enter marks for 3 subjects: 85.5 90 77
